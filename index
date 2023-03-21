@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Varsha | Home</title>
+        <link rel="stylesheet" href="C:\Users\Admin\Desktop\Varsha\cstyle.css">
+    </head>
+    <body>
+       <header>
+            <nav>
+                <img src="C:\Users\Admin\Desktop\Varsha\Image\Logo.png" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+    </header>
+           <main>
+            <section class="main-header-row">
+                    <div class="main-header-col-1">
+                        <p>Student</p>
+                        <h1>Hi, I am Varsha From India</h1>
+                        <a href="about.html" class="btn">Know more</a>
+                    </div>
+                    <div class="main-header-col-2">
+                        <img src="C:\Users\Admin\Desktop\Varsha\Image\photo.jpg">
+                    </div>
+            </section>
+           </main> 
+           <footer class="copyright">
+            <p>Copyright &copy; Varsha. Made with <i class="fa-solid fa-heart"></i> by Orchids International School</p>
+           </footer>      
+    </body>
+</html>
